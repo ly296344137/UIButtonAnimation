@@ -27,6 +27,11 @@ class ViewController: UIViewController {
         //仿爱奇艺播放暂停按钮
         let qIYButton = LYCopyQIYButton(frame: CGRect(x: 100, y: 340, width: 100, height: 100), color:UIColor(red: 61.0/255.0, green: 168.0/255.0, blue: 250.0/255.0, alpha: 1))
         self.view.addSubview(qIYButton)
+        
+        //仿苹果的全局浮动按钮
+        let frame: CGRect = self.view.frame
+        let globalButton = LYCopyGlobalButton(frame: CGRect(x: 100, y: 500, width: 100, height: 100), viewFrame: frame)
+        self.view.addSubview(globalButton)
     }
 
     override func didReceiveMemoryWarning() {

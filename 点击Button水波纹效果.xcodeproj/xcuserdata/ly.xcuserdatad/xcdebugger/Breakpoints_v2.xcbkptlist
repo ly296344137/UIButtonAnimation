@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyAliPayButton.swift"
-            timestampString = "546321237.830018"
+            timestampString = "546504367.837804"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "38"
-            endingLineNumber = "38"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
             landmarkName = "draw(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyQIYButton.swift"
-            timestampString = "546321237.830552"
+            timestampString = "546493496.896879"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
             landmarkName = "stateChangeAction()"
             landmarkType = "7">
          </BreakpointContent>
@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyQIYButton.swift"
-            timestampString = "546321237.831557"
+            timestampString = "546493496.897019"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "159"
-            endingLineNumber = "159"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
             landmarkName = "transformPlayAnimation()"
             landmarkType = "7">
          </BreakpointContent>
@@ -58,13 +58,217 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyQIYButton.swift"
-            timestampString = "546321237.832093"
+            timestampString = "546493496.897105"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "113"
-            endingLineNumber = "113"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
             landmarkName = "setupAnimation(keyPath:from:to:layer:duration:animationName:)"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyQIYButton.swift"
+            timestampString = "546493496.8971829"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "linePlayAnimation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyQIYButton.swift"
+            timestampString = "546493496.897257"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "linePlayAnimation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyQIYButton.swift"
+            timestampString = "546493496.897336"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "linePlayAnimation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyQIYButton.swift"
+            timestampString = "546493496.897433"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "linePlayAnimation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyQIYButton.swift"
+            timestampString = "546493496.89753"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "transformPlayAnimation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyQIYButton.swift"
+            timestampString = "546493496.8976049"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "transformPlayAnimation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyQIYButton.swift"
+            timestampString = "546493496.89768"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "transformPlayAnimation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyQIYButton.swift"
+            timestampString = "546493496.897752"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "transformPlayAnimation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyGlobalButton.swift"
+            timestampString = "550569034.978487"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "panGestureAction(pan:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyGlobalButton.swift"
+            timestampString = "550569034.992582"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;/LYCopyGlobalButton.swift"
+            timestampString = "550569034.993369"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;.LYCopyGlobalButton.showSelf() -&gt; ()"
+                  moduleName = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ly/Documents/UIButtonAnimation/%E7%82%B9%E5%87%BBButton%E6%B0%B4%E6%B3%A2%E7%BA%B9%E6%95%88%E6%9E%9C/LYCopyGlobalButton.swift"
+                  timestampString = "546488063.9699841"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in &#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;.LYCopyGlobalButton.showSelf() -&gt; ()"
+                  moduleName = "&#x70b9;&#x51fb;Button&#x6c34;&#x6ce2;&#x7eb9;&#x6548;&#x679c;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ly/Documents/UIButtonAnimation/%E7%82%B9%E5%87%BBButton%E6%B0%B4%E6%B3%A2%E7%BA%B9%E6%95%88%E6%9E%9C/LYCopyGlobalButton.swift"
+                  timestampString = "546488063.975798"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

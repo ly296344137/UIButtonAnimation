@@ -26,9 +26,10 @@ class LYCopyQIYButton: UIButton, CAAnimationDelegate {
         lineWidth = self.frame.size.width*0.2
         strokColor = color
         buttonSize = frame.size
-        self.backgroundColor = UIColor.black
+//        self.backgroundColor = UIColor.black
         self.isSelected = true
         self.addTarget(self, action: #selector(stateChangeAction), for: UIControlEvents.touchUpInside)
+        
         setupLeftLineLayer()
         setupRightLineLayer()
         setupTriangleLayer()
@@ -110,6 +111,7 @@ class LYCopyQIYButton: UIButton, CAAnimationDelegate {
     func setupAnimation(keyPath: String, from: Int, to: Int, layer:CAShapeLayer, duration: Float, animationName: String) {
         let animation = CABasicAnimation(keyPath: keyPath)
         if !(keyPath == "path") {
+            //如果是strokeEnd、strokeStart
             animation.fromValue = from
             animation.toValue = to
         }
@@ -117,6 +119,7 @@ class LYCopyQIYButton: UIButton, CAAnimationDelegate {
         animation.fillMode = kCAFillModeForwards
         animation.isRemovedOnCompletion = false
         animation.delegate = self
+        //在代理方法里用anim.value(forKey:"animationName")获取动画名称
         animation.setValue(animationName, forKey: "animationName")
         layer.add(animation, forKey: "")
     }

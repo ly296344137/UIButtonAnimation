@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0814D85020916FA800642EF0 /* LYCopyGlobalButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0814D84F20916FA800642EF0 /* LYCopyGlobalButton.swift */; };
 		08982D27208897D100DDA4DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08982D26208897D100DDA4DB /* AppDelegate.swift */; };
 		08982D29208897D100DDA4DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08982D28208897D100DDA4DB /* ViewController.swift */; };
 		08982D2C208897D100DDA4DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08982D2A208897D100DDA4DB /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0814D84F20916FA800642EF0 /* LYCopyGlobalButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LYCopyGlobalButton.swift; sourceTree = "<group>"; };
 		08982D23208897D100DDA4DB /* 点击Button水波纹效果.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "点击Button水波纹效果.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		08982D26208897D100DDA4DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		08982D28208897D100DDA4DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				08982D542088980500DDA4DB /* LYWaveTouchButton.swift */,
 				08D8564220899074005CD4F7 /* LYCopyAliPayButton.swift */,
 				08B599CB208DBE9B00162339 /* LYCopyQIYButton.swift */,
+				0814D84F20916FA800642EF0 /* LYCopyGlobalButton.swift */,
 				08982D2A208897D100DDA4DB /* Main.storyboard */,
 				08982D2D208897D600DDA4DB /* Assets.xcassets */,
 				08982D2F208897D600DDA4DB /* LaunchScreen.storyboard */,
@@ -267,6 +270,7 @@
 			files = (
 				08982D552088980500DDA4DB /* LYWaveTouchButton.swift in Sources */,
 				08B599CC208DBE9B00162339 /* LYCopyQIYButton.swift in Sources */,
+				0814D85020916FA800642EF0 /* LYCopyGlobalButton.swift in Sources */,
 				08982D29208897D100DDA4DB /* ViewController.swift in Sources */,
 				08982D27208897D100DDA4DB /* AppDelegate.swift in Sources */,
 				08D8564320899074005CD4F7 /* LYCopyAliPayButton.swift in Sources */,
